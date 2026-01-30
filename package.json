@@ -20,7 +20,7 @@
     "vite-tsconfig-paths": "^5.1.4"
   },
   "dependencies": {
-    "polymatic": "workspace:*",
-    "stage-js": "1.0.0-alpha.16"
+    "polymatic": "^0.0.12",
+    "stage-js": "^1.0.0-alpha.18"
   }
 }
